@@ -1,0 +1,10 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav>div:last-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
